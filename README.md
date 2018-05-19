@@ -1,2 +1,2 @@
-# eclipse-git
-use eclipse git
+# Welcome to eclipse-git
+use eclipse git to push and fetch to github.
